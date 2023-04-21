@@ -1,6 +1,6 @@
 {
   "name": "html-base64-img-to-upload",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "if a html string contain IMG tags which url is base64 ，is to large to post api，before we do that, we can find the base64 IMG tags.and replace their url with the uploaded url",
   "main": "./uploadEditorBase64Img/index.js",
   "scripts": {
